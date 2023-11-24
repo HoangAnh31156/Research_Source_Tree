@@ -13,6 +13,10 @@ namespace ConsoleApp2
             Console.WriteLine("Hoa don cho");
 
             Console.WriteLine("Gio Hang");
+
+            Console.WriteLine("San Pham");
+
+            Console.WriteLine("Thanh toan");
         }
     }
 }
