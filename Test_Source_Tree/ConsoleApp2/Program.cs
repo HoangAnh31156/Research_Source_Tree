@@ -17,6 +17,12 @@ namespace ConsoleApp2
             Console.WriteLine("San Pham");
 
             Console.WriteLine("Thanh toan");
+
+            Console.WriteLine("Khach hang");
+
+            Console.WriteLine("Nhan vien");
+
+           
         }
     }
 }
