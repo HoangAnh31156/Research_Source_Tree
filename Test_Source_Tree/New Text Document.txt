@@ -1,2 +1,3 @@
-Dev 1 viet thieu r. Them du lieu di
+Dev 1 viet : ABC XYZ
+day la code 
 dev 2 viet 
