@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev1\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj": {}
+    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev2\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj": {}
   },
   "projects": {
-    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev1\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj": {
+    "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev2\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev1\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj",
+        "projectUniqueName": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev2\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj",
         "projectName": "Test_Source_Tree",
-        "projectPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev1\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj",
+        "projectPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev2\\Test_Source_Tree\\Test_Source_Tree\\Test_Source_Tree.csproj",
         "packagesPath": "C:\\Users\\HoangAnh\\.nuget\\packages\\",
-        "outputPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev1\\Test_Source_Tree\\Test_Source_Tree\\obj\\",
+        "outputPath": "E:\\CODE\\VisualStudio\\$SOURCE TREE\\Dev2\\Test_Source_Tree\\Test_Source_Tree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
