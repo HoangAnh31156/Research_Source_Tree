@@ -1,0 +1,15 @@
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\bin\Debug\net6.0\Test_Source_Tree.exe
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\bin\Debug\net6.0\Test_Source_Tree.deps.json
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\bin\Debug\net6.0\Test_Source_Tree.runtimeconfig.json
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\bin\Debug\net6.0\Test_Source_Tree.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\bin\Debug\net6.0\Test_Source_Tree.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.AssemblyInfo.cs
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\refint\Test_Source_Tree.dll
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.pdb
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\Test_Source_Tree.genruntimeconfig.cache
+E:\CODE\VisualStudio\$SOURCE TREE\Dev1\Test_Source_Tree\Test_Source_Tree\obj\Debug\net6.0\ref\Test_Source_Tree.dll
